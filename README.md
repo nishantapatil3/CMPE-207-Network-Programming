@@ -2,7 +2,7 @@
 
 Solution to:
 
-A. Implement a pair of IPv6 TCP client and server for a simple DVD store ordering system (as described in Homework-1) that support both IPv4 and IPv6 peers.
+A. Implement a pair of IPv6 TCP client and server for a simple DVD store ordering system that support both IPv4 and IPv6 peers.
 
 Implement an IPv6 server for this DVD store system. This server should accept connections from both IPv6 clients and pure IPv4 clients (e.g. client4 from hw3-ipv4).
 
