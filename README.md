@@ -2,7 +2,7 @@
 
 Solution to:
 
-A. Implement a pair of IPv6 TCP client and server for a simple DVD store ordering system (as described in Homework #1) that support both IPv4 and IPv6 peers.
+A. Implement a pair of IPv6 TCP client and server for a simple DVD store ordering system (as described in Homework-1) that support both IPv4 and IPv6 peers.
 
 Implement an IPv6 server for this DVD store system. This server should accept connections from both IPv6 clients and pure IPv4 clients (e.g. client4 from hw3-ipv4).
 
@@ -18,7 +18,7 @@ B. Modify TCPdaytimed.c (Chapter 10.5) to make it a concurrent, connection- orie
 
 The slave process should convert the time string into the following format: MM/DD/YYYY HH:MM:SS Weekday for example, “09/24/2015 10:05:02 Thu”. The slave process should then send the revised time string back to the client.
 
-3. Implement a “ping” program using raw socket.
+C. Implement a “ping” program using raw socket.
 
 This “ping” program only needs to support IPv4 and ICMPv4, not IPv6 and ICMPv6.
 You may use the “ping” program from the “Unix Network Programming” textbook as the starting point for your implementation. If you do so, please remove the IPv6 and ICMPv6 related code from the textbook “ping” program.
