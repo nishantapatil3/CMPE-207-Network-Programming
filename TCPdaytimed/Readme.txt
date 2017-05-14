@@ -1,5 +1,4 @@
 Name:Nishant Patil
-SJSU ID:010720918
 
 Assignment 2:
 18 Oct 2015
